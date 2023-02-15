@@ -15,28 +15,20 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
-  address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  #contact_links:
-  #  - icon: comments
-  #    icon_pack: fas
-  #    name: Discuss on Forum
-  #    link: 'https://discourse.gohugo.io'
+  email: biocosmo.world@gmail.com
+  #phone: 888 888 88 88
+  #address:
+  
+
+   contact_links:
+        - icon: redbook
+          icon_pack: fab
+          name: xiaohongshu小红书
+          link: 'https://www.xiaohongshu.com/user/profile/604e1e320000000001009916?xhsshare=CopyLink&appuid=5a847fd811be1034623e5c98&apptime=1676491691'
+        - icon: weixin
+          icon_pack: fab
+          name: WeChat微信公众号
+          link: 'https://mp.weixin.qq.com/s/dkRDE0KAXr2o6kGqyrY-wQ'
 
   # Automatically link email and phone or display as text?
   autolink: true
