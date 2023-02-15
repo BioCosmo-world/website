@@ -13,7 +13,6 @@ title: Contact
 subtitle:
 
 content:
-  # Contact (edit or remove options as required)
   email: biocosmo.world@gmail.com
   contact_links:
         - icon: redbook
