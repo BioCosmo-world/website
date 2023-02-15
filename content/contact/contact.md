@@ -15,8 +15,6 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
   email: biocosmo.world@gmail.com
-  
-
   contact_links:
         - icon: redbook
           icon_pack: fab
@@ -30,16 +28,12 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
+   # Email form provider
+   form:
+   provider: formspree
+   formspree:
+    id: xknajwaq
 design:
-  columns: '1'
+   columns: '1'
 ---
 
