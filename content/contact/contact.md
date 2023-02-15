@@ -14,13 +14,10 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-
   email: biocosmo.world@gmail.com
-  #phone: 888 888 88 88
-  #address:
   
 
-   contact_links:
+  contact_links:
         - icon: redbook
           icon_pack: fab
           name: xiaohongshu小红书
