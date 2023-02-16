@@ -25,7 +25,6 @@ content:
           name: WeChat
           link: 'https://mp.weixin.qq.com/s/dkRDE0KAXr2o6kGqyrY-wQ'
 
-
   # Automatically link email and phone or display as text?
   autolink: true
 
