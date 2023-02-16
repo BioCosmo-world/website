@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: 青年漫游.jpg
+        media: 青年漫游.jpeg
     - title: Free job posting services for Research positions
       content: 'Promoting Academic Exchanges and Collaboration, Supporting the Development of Biotech Personnel！'
       align: left
