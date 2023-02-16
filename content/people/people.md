@@ -1,13 +1,13 @@
 ---
 # An instance of the People widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: people
+widget: hero
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 68
+weight: 10
 
 title: Meet the Team
 subtitle: Please scan the QRcode to follow us
@@ -27,21 +27,11 @@ design:
 
 ## About US
 
-BioCosmo is co-founded by graduate students from Yale University, ETH Zurich, and Caltech, and is dedicated to establishing an inclusive cohesive platform for all young overseas Chinese bio scholars to promote academic communication and collaborations across regional and disciplinary barriers, as well as to advance personal career development, aiming for the overall boost/breakthrough in the life science field. Six months after its establishment, we have about 1100 identified community members, covering most top-notch life science institutes, America,  Europe, and Australia.
+BioCosmo is co-founded by graduate students from Yale University, ETH Zurich, and Caltech, and is dedicated to establishing an inclusive cohesive platform for all young overseas Chinese bio scholars to promote academic communication and collaborations across regional and disciplinary barriers, as well as to advance personal career development, aiming for the overall boost/breakthrough in the life science field. Six months after its establishment, we have about 1400 identified community members, covering most top-notch life science institutes, America,  Europe, and Australia.
 
 Besides the active spontaneous exchanges within the community, we're also actively organizing academic events to foster understanding and collaboration at the frontier of life science. Another key resolution of ours is to help young biologists to explore career potentials and make better developmental plans. Therefore, we invite senior professionals working in diverse positions to share industry insights and career stories. 
 
 We sincerely invite all outstanding scientists to hold an online exchange activity on campus for community members, and conduct an in-depth exchange with young scholars on academic and scientific research or career development.
 
-  user_groups:
-    - Principal Investigators
-    - Researchers
-    - Grad Students
-    - Administration
-    - Visitors
-    - Alumni
-design:
-  show_interests: false
-  show_role: true
-  show_social: true
+  
 ---
