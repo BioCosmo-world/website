@@ -31,8 +31,8 @@ content:
         color: '#555'
         brightness: 0.7
         media: free-recrut.png
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title:  Overseas university biologists engaged in frontline research are welcome👏
+      content: 'There are over 1,400 members in the community!'
       align: right
       background:
         position: center
