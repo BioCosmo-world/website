@@ -12,7 +12,7 @@ location: Online
 #   postcode: '94305'
 #   country: United States
 
-summary: Artificial Intelligence and Biomedical Science.
+summary: Artificial Intelligence and Biomedical Science
 abstract: 'In the era of technological revolution, as a frontline biological researcher, are you curious about how the development of artificial intelligence technology can help biological research? In terms of career development, how can you find the most powerful platform to support the academic development of cutting-edge research talents?'
 
 # Talk start and end times.
@@ -53,13 +53,4 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
-<!-- Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page. -->
-
 BioCosmo is honored to invite Professor Zhou Ruhong, Dean of the Higher Education Institute and the School of Life Sciences at Zhejiang University, to give an academic lecture on "Artificial Intelligence and Biomedical Science" to kick off the first session of the Distinguished Lecture Series in Life Sciences. He will share the latest developments in the intersection of life sciences and computation.
