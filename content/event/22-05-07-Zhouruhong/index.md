@@ -13,7 +13,7 @@ location: Online
 #   country: United States
 
 summary: Artificial Intelligence and Biomedical Science.
-abstract: ''
+abstract: 'In the era of technological revolution, as a frontline biological researcher, are you curious about how the development of artificial intelligence technology can help biological research? In terms of career development, how can you find the most powerful platform to support the academic development of cutting-edge research talents?'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
