@@ -42,5 +42,5 @@ design:
   columns: '1'
 ---
 
-If yyou have any questions, feel free to contact us.
+If you have any questions, feel free to contact us.
 
