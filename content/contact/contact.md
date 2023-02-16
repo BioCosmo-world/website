@@ -22,7 +22,7 @@ content:
           link: 'https://www.linkedin.com/company/biocosmo2022?trk=similar-pages'
         - icon: weixin
           icon_pack: fab
-          name: WeChat微信公众号
+          name: WeChat
           link: 'https://mp.weixin.qq.com/s/dkRDE0KAXr2o6kGqyrY-wQ'
 
 
