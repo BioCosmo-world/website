@@ -1,7 +1,7 @@
 ---
-title: Distinguished Lecture Series in Life Sciences 01 | Zhou Ruhong - Artificial Intelligence and Biomedical Science.
+title: World Biological Masters Lecture Series 01 | Zhou Ruhong - Artificial Intelligence and Biomedical Science.
 
-event: Distinguished Lecture Series in Life Sciences
+event: orld Biological Masters Lecture Series
 event_url: https://mp.weixin.qq.com/s/lZDGbV-Ps34mdRiuJyzHzg
 
 location: Online
@@ -54,3 +54,5 @@ slides:
 projects:
 ---
 BioCosmo is honored to invite Professor Zhou Ruhong, Dean of the Higher Education Institute and the School of Life Sciences at Zhejiang University, to give an academic lecture on "Artificial Intelligence and Biomedical Science" to kick off the first session of the Distinguished Lecture Series in Life Sciences. He will share the latest developments in the intersection of life sciences and computation.
+
+Check out our lecture recording on Youtube Channel: [BioCosmo](https://www.youtube.com/watch?v=8PFPKMbbOcs)
