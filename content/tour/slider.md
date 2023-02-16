@@ -22,15 +22,15 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: 青年漫游.png
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+        media: 青年漫游.jpg
+    - title: Free job posting services for Research positions
+      content: 'Promoting Academic Exchanges and Collaboration, Supporting the Development of Biotech Personnel！'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: free-recrut.png
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
       align: right
