@@ -1,8 +1,8 @@
 ---
-title: Research Seminar 02 | Microbiota Series-Do Microorganisms Exist in the Fetus Before Birth?
+title:  Where I Go from Here 01 | Roundtable Sharing for PIs in the United States
 
-event: Research Seminar 02 Microbiota Series
-event_url: https://mp.weixin.qq.com/s/U7mH5memk3VPC4f88sQ_4A
+event: Where I Go from Here 01 | Roundtable Sharing for PIs in the United States
+event_url: https://mp.weixin.qq.com/s/cNc6tx4jsHsq38s0rMIW1g
 
 location: Online
 # address:
@@ -12,17 +12,17 @@ location: Online
 #   postcode: '94305'
 #   country: United States
 
-summary: Microbiota
-abstract: 'Do Microorganisms Exist in the Fetus Before Birth?'
+summary: Roundtable Sharing for PIs in the United States
+abstract: 'By combining the diverse backgrounds of the guests with relevant topics of concern, this forum aims to ignite new ideas and provide members who are still exploring their career options with a clearer vision of the possibilities and potential paths available to them, thereby reducing uncertainty about the future.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-06-04T13:00:00Z'
-date_end: '2022-06-04T15:00:00Z'
+date: '2022-06-11T13:00:00Z'
+date_end: '2022-06-11T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-06-01T00:00:00Z'
+publishDate: '2022-06-06T00:00:00Z'
 
 authors: []
 tags: []
@@ -53,4 +53,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-The Microbiota Interest Group of the BioCosmo community specially invited Dr. Bi Yanliang from the Chinese Academy of Agricultural Sciences to discuss several hot issues in the field.
+Guests: 
+Jing Yan (Assistant Professor, Department of Molecular, Cellular, and Developmental Biology, Yale University), Tao Wu (Assistant Professor, Department of Molecular and Human Genetics, Baylor College of Medicine), Hui Zhang (Professor, Feinberg School of Medicine, Northwestern University), Yejing Ge (Assistant Professor, Department of Cancer Biology, University of Texas MD Anderson Cancer Center)
+
+

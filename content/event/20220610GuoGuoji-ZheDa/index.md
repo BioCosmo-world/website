@@ -1,8 +1,8 @@
 ---
-title: Research Seminar 02 | Microbiota Series-Do Microorganisms Exist in the Fetus Before Birth?
+title:  Research Seminar 03 | Drawing and Application of Cell Atlas
 
-event: Research Seminar 02 Microbiota Series
-event_url: https://mp.weixin.qq.com/s/U7mH5memk3VPC4f88sQ_4A
+event: Drawing and Application of Cell Atlas
+event_url: https://mp.weixin.qq.com/s/7aN0XXNH1qNuD6cNLkjsIQ
 
 location: Online
 # address:
@@ -12,17 +12,17 @@ location: Online
 #   postcode: '94305'
 #   country: United States
 
-summary: Microbiota
-abstract: 'Do Microorganisms Exist in the Fetus Before Birth?'
+summary: Drawing and Application of Cell Atlas
+abstract: 'Academic lecture on "Drawing and Application of Cell Atlas'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-06-04T13:00:00Z'
-date_end: '2022-06-04T15:00:00Z'
+date: '2022-06-10T13:00:00Z'
+date_end: '2022-06-10T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-06-01T00:00:00Z'
+publishDate: '2022-06-07T00:00:00Z'
 
 authors: []
 tags: []
@@ -53,4 +53,6 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-The Microbiota Interest Group of the BioCosmo community specially invited Dr. Bi Yanliang from the Chinese Academy of Agricultural Sciences to discuss several hot issues in the field.
+BioCosmo has the honor of inviting Professor Guo Guoji from Zhejiang University-University of Edinburgh Institute to give an academic lecture on "Drawing and Application of Cell Atlas," as well as Professor Ouyang Hongwei, the Dean of the Zhejiang University International Campus, to introduce the school's characteristics, disciplinary status, and future development plans.
+
+
