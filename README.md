@@ -1,5 +1,5 @@
 # BioCosmo Website
-[BioCosmo网站](https://biocosmo-world.netlify.app/）
+[BioCosmo网站]( https://biocosmo-world.netlify.app/ ）
 
 The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
 
