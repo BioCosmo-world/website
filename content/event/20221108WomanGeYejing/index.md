@@ -2,7 +2,7 @@
 title: Women in Science | Professor Ge Yejing on Women's Identity
 
 event: Women in Science | Professor Ge Yejing on Women's Identity
-event_url: https://mp.weixin.qq.com/s?__biz=Mzg5OTU5MTM2Mw==&mid=2247484167&idx=1&sn=b841f604ea90cf57d9c074948d4bee57&chksm=c051beabf72637bd18e8d854a4aa0554561605508b59bf5d9e37e8086a04206620d0450af8eb#rd
+event_url: https://mp.weixin.qq.com/s/GvnySbvjkM-XFXU2KwJ90A
 
 location: Online
 # address:
@@ -13,7 +13,7 @@ location: Online
 #   country: United States
 
 summary: Women in Science - Women's Identity
-abstract: 'Compared to traditional perceptions of women several decades ago, more and more women with independent thinking and idealism in today's society aspire to make achievements in their careers. However, faced with deeply rooted family role division concepts and invisible unfriendliness towards women in some job positions, how can we find our own direction and persist in it?'
+abstract: 'Faced with deeply rooted family role division concepts and invisible unfriendliness towards women in some job positions, how can we find our own direction and persist in it?'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
