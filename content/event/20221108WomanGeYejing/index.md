@@ -22,7 +22,7 @@ date_end: '2022-11-08T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-11-08T00:00:00Z'
+publishDate: '2022-11-07T00:00:00Z'
 
 authors: []
 tags: []
@@ -70,15 +70,15 @@ Moreover, in the current highly competitive environment, many things may not go 
 
 # Conversation Topics
 
-## Many excellent female researchers face the difficult question of how to balance their career and love life. What advice does Professor Ge have for female researchers who are still single?
+1. Many excellent female researchers face the difficult question of how to balance their career and love life. What advice does Professor Ge have for female researchers who are still single?
 Many female researchers who are currently in school and at the early stages of their careers are single due to busy academic and work schedules. Professor Ge believes that single female researchers do not need to rush to find a partner. Continuously improving one's personal abilities and gaining self-affirmation and confidence are the real attractions to a partner.
 
-## After getting married, how can female researchers better balance their career and family relationships?
+2. After getting married, how can female researchers better balance their career and family relationships?
 After getting married, facing the dual pressures of family and academics, sacrificing one's own academic work is not the only choice for women. Ideally, both partners can develop their careers. If a woman sacrifices her academic work for the family, she may find that being a homemaker is not an easy task. Therefore, both partners need to learn to adjust flexibly, set clear goals for their academics, and this can help balance the relationship between the two.
 
 When both partners aspire to advance their careers, they can communicate with each other, collaborate, and clearly define their respective responsibilities in the family, and help each other. There is no standard answer to how to interact with one's partner in the family. It requires mutual communication and finding the best way that suits each individual. Some suggestions are to give partners some household chores, such as doing housework, which can help form a healthy pattern where both sides contribute to the family.
 
-## Despite the increasing attention to female researchers in academia, female researchers still face the phenomenon of being "labeled". What is Professor Ge's understanding of her identity as a "female researcher"?
+3. Despite the increasing attention to female researchers in academia, female researchers still face the phenomenon of being "labeled". What is Professor Ge's understanding of her identity as a "female researcher"?
 In the face of emphasis on her identity as a female scientist, Professor Ge did not feel any additional pressure. Although 90-95% of her colleagues are male, a small number of colleagues sometimes feel that institutions have extra "care" for women. She believes that a truly equal environment should not be determined by gender, but should focus on science itself. Being in an era where female scientists are getting more and more attention is actually lucky. As a scientist, we should focus on improving our personal abilities
 
 # Closing Remark 
