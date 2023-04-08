@@ -13,7 +13,7 @@ location: Online
 #   country: United States
 
 summary: Partners Talk about Consulting (Greater China)
-abstract: 'In this event, we cooperate with SAPA-CT and are honored to invite Dr. Liu Yuting, a partner in the Beijing office of Boston Consulting Group (BCG), and Mr. Luo Wanquan, a vice president and partner in the Hong Kong office of McKinsey, to share their profound experience accumulated in the medical and health consulting industry.'
+abstract: 'In this event, we cooperate with SAPA-CT and are honored to invite Dr. Liu Yuting, a partner in the Beijing office of Boston Consulting Group (BCG), and Adrian Lo, associate partner in the Hong Kong office of McKinsey, to share their profound experience accumulated in the medical and health consulting industry.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
