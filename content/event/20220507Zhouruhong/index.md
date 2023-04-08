@@ -1,7 +1,7 @@
 ---
-title: World Biological Masters Lecture Series 01 | Zhou Ruhong - Artificial Intelligence and Biomedical Science.
+title:  Life Sciences Pioneer Series 01 | Zhou Ruhong - Artificial Intelligence and Biomedical Science.
 
-event: orld Biological Masters Lecture Series
+event:  Life Sciences Pioneer Series
 event_url: https://mp.weixin.qq.com/s/lZDGbV-Ps34mdRiuJyzHzg
 
 location: Online
