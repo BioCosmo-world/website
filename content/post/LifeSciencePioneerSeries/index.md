@@ -14,6 +14,6 @@ The Life Sciences Pioneer Series is an online public lecture series initiated by
 We hope to invite outstanding biological scientists with academic achievements from different fields to bring academic progress reports/academic road sharing, to help scholars break through geographical restrictions, understand the forefront of new century biological development, and promote the exchange and growth of young biologists from top universities around the world by listening to the stories of biological masters from all over the world.
 
 Check out our lectures:
-1. Professor [Ruhong Zhou](https://www.youtube.com/watch?v=8PFPKMbbOcs)
-2. Professor Xinnian Dong
-3. Professor Peng Yin
+1. Professor [Ruhong Zhou](https://www.youtube.com/watch?v=8PFPKMbbOcs) [Link](https://biocosmo-world.netlify.app/event/20220507zhouruhong/)
+2. Professor Xinnian Dong [Link](https://biocosmo-world.netlify.app/event/20220723xinniandong/)
+3. Pioneer Peng Yin [Link](https://biocosmo-world.netlify.app/event/20221203yinpeng/)
