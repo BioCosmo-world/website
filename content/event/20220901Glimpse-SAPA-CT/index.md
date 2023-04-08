@@ -1,5 +1,5 @@
 ---
-title: [SAPA-CT x BioCosmo] A Glimpse of Biotech | Chatting with Biotech Founders -  How to Plan and Build a First-Class Start-up Company
+title: SAPA-CT x BioCosmo A Glimpse of Biotech | Chatting with Biotech Founders -  How to Plan and Build a First-Class Start-up Company
 
 event: A Glimpse of Biotech | Chatting with Biotech Founders
 
