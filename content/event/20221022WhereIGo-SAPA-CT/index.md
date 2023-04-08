@@ -13,7 +13,7 @@ location: Online
 #   country: United States
 
 summary: Partners Talk about Consulting (Greater China)
-abstract: 'In this event, we cooperate with SAPA-CT and are honored to invite Dr. Liu Yuting, a partner in the Beijing office of Boston Consulting Group (BCG), and Adrian Lo, associate partner in the Hong Kong office of McKinsey, to share their profound experience accumulated in the medical and health consulting industry.'
+abstract: 'Whether you are interested in long-term career planning, feeling confused about career development bottlenecks, or want to improve yourself from the ground up, we welcome you to join the SAPA-CT x BioCosmo chat room on Saturday, October 22, from 10:00-11:20 am EST to chat with our special guests!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -57,9 +57,7 @@ How do you view the career prospects and development of the consulting and healt
 What qualities do partners at well-known consulting firms value the most when interviewing candidates?
 For students and early career professionals who want to enter the consulting industry, including PhD students, how can they discover and leverage their background advantages?
 
-In this event, we have the pleasure of collaborating with SAPA-CT and inviting Dr. Yuting Liu, Partner at Boston Consulting Group (BCG) Beijing, and Mr. Wanquan Luo, Associate Director and Partner at McKinsey Hong Kong, to share their extensive experience in the healthcare consulting industry.
-
-Whether you are interested in long-term career planning, feeling confused about career development bottlenecks, or want to improve yourself from the ground up, we welcome you to join the SAPA-CT x BioCosmo chat room on Saturday, October 22, from 10:00-11:20 am EST to chat with our special guests!
+In this event, we have the pleasure of collaborating with SAPA-CT and inviting Dr. Yuting Liu, Partner at Boston Consulting Group (BCG) Beijing, and Adrian Lo, associate partner in the Hong Kong office of McKinsey, to share their extensive experience in the healthcare consulting industry.
 
 # Guests:
 ## Yuting Liu
