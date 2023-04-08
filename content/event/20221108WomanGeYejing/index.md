@@ -12,8 +12,8 @@ location: Online
 #   postcode: '94305'
 #   country: United States
 
-summary: Women in Science
-abstract: 'In this era of rapid technological development, female workers have become an indispensable force in society. Compared to traditional perceptions of women several decades ago, more and more women with independent thinking and idealism in today's society aspire to make achievements in their careers. However, faced with deeply rooted family role division concepts and invisible unfriendliness towards women in some job positions, how can we find our own direction and persist in it?'
+summary: Women in Science - Women's Identity
+abstract: 'Compared to traditional perceptions of women several decades ago, more and more women with independent thinking and idealism in today's society aspire to make achievements in their careers. However, faced with deeply rooted family role division concepts and invisible unfriendliness towards women in some job positions, how can we find our own direction and persist in it?'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -68,7 +68,7 @@ Professor Ge suggests that when choosing one's research, it is best to be guided
 
 Moreover, in the current highly competitive environment, many things may not go as planned, and many things are determined by the environment and personal characteristics at the time. Therefore, there is no need to be overly anxious and one should learn to relax, enjoy the natural progress and setbacks of each stage.
 
-# Conversation Topics
+## Conversation Topics
 
 1. Many excellent female researchers face the difficult question of how to balance their career and love life. What advice does Professor Ge have for female researchers who are still single?
 Many female researchers who are currently in school and at the early stages of their careers are single due to busy academic and work schedules. Professor Ge believes that single female researchers do not need to rush to find a partner. Continuously improving one's personal abilities and gaining self-affirmation and confidence are the real attractions to a partner.
@@ -81,7 +81,7 @@ When both partners aspire to advance their careers, they can communicate with ea
 3. Despite the increasing attention to female researchers in academia, female researchers still face the phenomenon of being "labeled". What is Professor Ge's understanding of her identity as a "female researcher"?
 In the face of emphasis on her identity as a female scientist, Professor Ge did not feel any additional pressure. Although 90-95% of her colleagues are male, a small number of colleagues sometimes feel that institutions have extra "care" for women. She believes that a truly equal environment should not be determined by gender, but should focus on science itself. Being in an era where female scientists are getting more and more attention is actually lucky. As a scientist, we should focus on improving our personal abilities
 
-# Closing Remark 
+## Closing Remark 
 -- Professor Ge has repeatedly emphasized the importance of balancing personal freedom with a focus on our own work in life. When we do our job well, gender will no longer be a factor that can determine our future.
 
 
