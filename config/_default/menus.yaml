@@ -16,6 +16,18 @@ main:
   - name: Events
     url: event
     weight: 40
+    - name: Where-I-Go
+    parent: event
+    url: event/whereIGo/
+    weight: 21
+    - name: Research Seminar
+    parent: event
+    url: event/ResearchSeminar/
+    weight: 21
+    - name: Life Sciences Pioneer
+    parent: event
+    url: event/LifeSciencesPioneer/
+    weight: 21
   - name: Contact
     url: contact
     weight: 60
