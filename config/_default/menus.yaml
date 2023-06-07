@@ -28,6 +28,18 @@ main:
     parent: event
     url: event/LifeSciencesPioneer/
     weight: 17
+  - name: Talent
+    parent: event
+    url: event/talent/
+    weight: 18
+  - name: Youth
+    parent: event
+    url: event/youth/
+    weight: 19
+  - name: Cooperation
+    parent: event
+    url: event/Cooperation/
+    weight: 20
   - name: Contact
     url: contact
-    weight: 18
+    weight: 21
