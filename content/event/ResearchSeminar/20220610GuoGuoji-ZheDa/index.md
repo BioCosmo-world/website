@@ -13,7 +13,7 @@ location: Online
 #   country: United States
 
 summary: Drawing and Application of Cell Atlas
-abstract: 'Academic lecture on "Drawing and Application of Cell Atlas'
+abstract: 'The advent of single-cell sequencing technology has revolutionized our understanding of cellular diversity and has led to the creation of a comprehensive "cell atlas" that maps the molecular characteristics of individual cells. As such, the drawing and application of a cell atlas has become a crucial component of modern biological research.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -53,6 +53,11 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-BioCosmo has the honor of inviting Professor Guo Guoji from Zhejiang University-University of Edinburgh Institute to give an academic lecture on "Drawing and Application of Cell Atlas," as well as Professor Ouyang Hongwei, the Dean of the Zhejiang University International Campus, to introduce the school's characteristics, disciplinary status, and future development plans.
+BioCosmo is honored to present an academic lecture on the drawing and application of a cell atlas, featuring Prof. Guoji Guo from Zhejiang University-University of Edinburgh Institute. Prof. Guo is a distinguished scholar in the field of single-cell biology and will provide valuable insights into the latest developments in the field.
+
+In addition, Prof. Hongwei Ouyang, the Dean of the Zhejiang University International Campus, will introduce the school's characteristics, disciplinary status, and future development plans. This lecture is an excellent opportunity for researchers and professionals in the field of biology to learn about the latest advances and to gain a better understanding of Zhejiang University's academic profile.
+
+Join us online on June 10th, 2022, from 1:00 PM to 3:00 PM, for this exciting academic lecture! Attendees will gain valuable knowledge from the leading expert and learn about Zhejiang University's vision for the future. Don't miss out on this incredible opportunity to expand your knowledge and network with like-minded peers.
+
 
 

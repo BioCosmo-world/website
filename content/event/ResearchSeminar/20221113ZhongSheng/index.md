@@ -53,11 +53,11 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-Liquid biopsy is a type of rapidly developing non-invasive diagnostic technique. Compared with tissue biopsy, liquid biopsy has advantages such as non-invasiveness, strong repeatability, early diagnosis, and dynamic monitoring. Almost all biological molecules in blood can be used for liquid biopsy, including circulating tumor cells, exosomes, extracellular proteins, metabolites, extracellular DNA, and extracellular RNA (exRNA).
+Liquid biopsy is a type of rapidly developing non-invasive diagnostic technique. Compared with tissue biopsy, liquid biopsy has advantages in non-invasiveness, strong repeatability, early diagnosis, and dynamic monitoring. Almost all biological molecules in blood can be used for liquid biopsy, including circulating tumor cells, exosomes, extracellular proteins, metabolites, extracellular DNA, and extracellular RNA (exRNA).
 
 In recent years, many studies have shown that exRNA plays a role in intercellular communication and can be used for the diagnosis, prognosis, and treatment of diseases. To efficiently analyze exRNA in liquid biopsy samples, Professor Zhong's team developed SILVER-seq (Small Input Liquid Volume Extracellular RNA Sequencing). With this technology, only about 30 microliters of fingertip blood is needed to sequence exRNA in the sample, leading the way for the future development of detection and monitoring of human diseases.
 
-In this academic lecture, BioCosmo is honored to invite Professor [Sheng Zhong](https://systemsbio.ucsd.edu) from the University of California, San Diego to share his academic journey and research frontier with us. The lecture will be conducted in English, so don't miss it!
+In this academic lecture, BioCosmo is honored to invite Professor [Sheng Zhong](https://systemsbio.ucsd.edu) from the University of California, San Diego to share his academic journey and research frontier with us. The lecture will be conducted in English, don't miss it!
 
 
 Check out our lecture recording on Youtube Channel: [BioCosmo](https://www.youtube.com/watch?v=0Hxr9uU-8gM)

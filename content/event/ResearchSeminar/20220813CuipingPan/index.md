@@ -53,8 +53,6 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-Doctoral students generally get less than 7.5 hours of sleep, and with various caffeine beverages readily available, sleep quality is also deteriorating. Furthermore, the incidence of cardiovascular diseases is increasing.
-
 With the advent of the big data era, the amount of data in the biomedical field is growing rapidly. Therefore, there is an urgent need for accurate analysis and reasonable application of massive data. As a new generation of leaders in multi-omics, computational biology, bioinformatics, population cohort big data, and cloud computing research fields, Dr. Cui-Ping Pan, who is currently working at the Greater Bay Area Precision Medicine Research Institute, leads a research team to integrate different types of data and extract relevant content beneficial to human health management. 
 
 In this academic lecture, BioCosmo is honored to invite Dr. [Cui-Ping Pan](http://www.pancuiping.net) to share her genomics research in the cardiovascular field and her personal work experience.

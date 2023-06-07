@@ -1,7 +1,7 @@
 ---
 title: Research Seminar 06 | Application of Computer Models Based on Omics and Biological Mechanisms in Psychiatric Disorders
 
-event: Research Seminar 07  | Dr. Cuiping Pan
+event: Research Seminar 06  | Dr. Junfang Chen
 event_url: https://mp.weixin.qq.com/s?__biz=Mzg5OTU5MTM2Mw==&mid=2247483968&idx=1&sn=9b04cfec02feb6ff9845f4f12ff73f9e&chksm=c051bfecf72636fa9df61957dff0b463ca7492a0835d8091e148000392013a2b1b0e59a992c6#rd
 
 location: Online
@@ -53,6 +53,6 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-On July 29th, the National Center for Mental Health officially opened, indicating an improvement in the ability to collect and integrate clinical data on mental illness, which is expected to further stimulate research on the molecular mechanisms and precision treatment of mental illness. So, how is computational biology combined with data on mental illness, and what are some important biomarkers for schizophrenia (a type of psychosis)?
+On July 29th, the National Center for Mental Health officially opened, indicating an improvement in the ability to collect and integrate clinical data on mental illness, which is expected to further stimulate research on the molecular mechanisms and precision treatment of mental illness. How could computational biology be combined with data on mental illness, and what are potential important biomarkers for schizophrenia (a type of psychosis)?
 
 BioCosmo invited Dr. [Junfang Chen](https://www.researchgate.net/profile/Junfang-Chen-2), the current leader of the research group at the Precision Medicine Research Institute of the Greater Bay Area of Guangdong, Hong Kong, and Macau, to share his recent research results on "Application of Computer Models Based on Omics and Biological Mechanisms in Psychiatric Disorders."

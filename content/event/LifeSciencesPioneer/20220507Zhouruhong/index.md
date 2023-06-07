@@ -1,5 +1,5 @@
 ---
-title:  Life Sciences Pioneer Series 01 | Zhou Ruhong - Artificial Intelligence and Biomedical Science.
+title:  Life Sciences Pioneer Series 01 | Ruhong Zhou - Artificial Intelligence and Biomedical Science.
 
 event:  Life Sciences Pioneer Series
 event_url: https://mp.weixin.qq.com/s/lZDGbV-Ps34mdRiuJyzHzg
@@ -13,7 +13,7 @@ location: Online
 #   country: United States
 
 summary: Artificial Intelligence and Biomedical Science
-abstract: 'In the era of technological revolution, as a frontline biological researcher, are you curious about how the development of artificial intelligence technology can help biological research? In terms of career development, how can you find the most powerful platform to support the academic development of cutting-edge research talents?'
+abstract: 'In the age of technological revolution, the integration of artificial intelligence (AI) and biology has presented new opportunities for cutting-edge research. As a frontline biological researcher, have you considered how the advancement of AI technology can aid in biological research? Additionally, as a budding academic, have you wondered where to find the most powerful platform to support your academic development?'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -53,6 +53,6 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-BioCosmo is honored to invite Professor Zhou Ruhong, Dean of the Higher Education Institute and the School of Life Sciences at Zhejiang University, to give an academic lecture on "Artificial Intelligence and Biomedical Science" to kick off the first session of the Distinguished Lecture Series in Life Sciences. He will share the latest developments in the intersection of life sciences and computation.
+To address these questions, BioCosmo is honored to invite Prof. Ruhong Zhou, Dean of the Higher Education Institute and the School of Life Sciences at Zhejiang University. He will share his insights on the latest developments in the intersection of life sciences and computation in his academic lecture titled "Artificial Intelligence and Biomedical Science". This lecture marks the beginning of the Master Lecture Series in Life Sciences, an event that is not to be missed. Join us on May 7th, 2022, from 1:00 PM to 3:00 PM, to gain invaluable knowledge and insights from one of the most distinguished scholars in the field. The lecture will be held online for your convenience.
 
 Check out our lecture recording on Youtube Channel: [BioCosmo](https://www.youtube.com/watch?v=8PFPKMbbOcs)
