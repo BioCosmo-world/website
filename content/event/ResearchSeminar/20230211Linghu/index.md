@@ -5,12 +5,6 @@ event: Research Seminar 09 | Professor Changyang Linghu
 event_url: https://mp.weixin.qq.com/s?__biz=Mzg5OTU5MTM2Mw==&mid=2247484314&idx=1&sn=de16c55547e88d88ee56008c9b573246&chksm=c051be36f726372047df68a5830995f4f06a86fd97f5b87d865eb7489786e5d4ef1256f3d7b4#rd
 
 location: Online
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
 
 summary: Cell and Developmental Biology
 abstract: 'A series of new techniques for observing biological signals in the brain.'
