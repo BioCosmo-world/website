@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Board member
+  - Board Member
 ---
 
-Nelson Bighetti is a master student of mathematics at ETH Zürich. Her research interests include Machine learning and statistics (causality, Bayesian networks, inference, missing data) with interdisciplinary applications (cancer, personalized medicine etc.). 
+Xuwenjia Li is a master student of mathematics at ETH Zürich. Her research interests include Machine learning and statistics (causality, Bayesian networks, inference, missing data) with interdisciplinary applications (cancer, personalized medicine etc.). 
