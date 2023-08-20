@@ -6,6 +6,10 @@ title: Jianjian Guo
 first_name: Jianjian
 last_name: Guo
 
+# Username (this should match the folder name)
+authors:
+  - 郭尖尖
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -69,7 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Board member
+  - Board Member
 ---
 
 Nelson Bighetti is a master student of mathematics at ETH Zürich. Her research interests include Machine learning and statistics (causality, Bayesian networks, inference, missing data) with interdisciplinary applications (cancer, personalized medicine etc.). 

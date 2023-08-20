@@ -6,6 +6,10 @@ title: Xuwenjia Li
 first_name: Xuwenjia
 last_name: Li
 
+# Username (this should match the folder name)
+authors:
+  - 李许雯佳
+
 # Is this the primary user of the site?
 superuser: true
 
