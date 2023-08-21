@@ -11,7 +11,7 @@ authors:
   - 李许雯佳
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Co-founder
