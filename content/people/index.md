@@ -1,6 +1,6 @@
 ---
 title: People
-date: 2023-08-20
+date: 2023-07-24
 
 type: landing
 
@@ -12,9 +12,10 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Principal Investigators
-          - Board Member
-          - Grad Students
+          - Researchers
+          - Board member
           - Administration
+          - Visitors
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true

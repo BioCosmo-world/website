@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Jianjian Guo
+title: Xuwenjia Li
 
 # Full Name (for SEO)
-first_name: Jianjian
-last_name: Guo
+first_name: Xuwenjia
+last_name: Li
 
 # Username (this should match the folder name)
 authors:
-  - 郭尖尖
+  - lixuwenjia
 
 # Is this the primary user of the site?
 superuser: false
@@ -72,8 +72,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Board Member
+user_groups: ["Board Member", "Administration"]
 ---
 
-Nelson Bighetti is a master student of mathematics at ETH Zürich. Her research interests include Machine learning and statistics (causality, Bayesian networks, inference, missing data) with interdisciplinary applications (cancer, personalized medicine etc.). 
+Xuwenjia Li is a master student of mathematics at ETH Zürich. Her research interests include Machine learning and statistics (causality, Bayesian networks, inference, missing data) with interdisciplinary applications (cancer, personalized medicine etc.). 
